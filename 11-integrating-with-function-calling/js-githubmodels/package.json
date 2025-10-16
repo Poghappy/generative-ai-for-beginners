@@ -2,7 +2,7 @@
   "type": "module",
   "dependencies": {
     "@azure-rest/ai-inference": "latest",
-    "@azure/core-auth": "latest",
+    "@azure/core-auth": "1.10.1",
     "@azure/core-sse": "latest"
   }
 }
